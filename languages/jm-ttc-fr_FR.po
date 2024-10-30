@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. Text in function
+#: jm-twit-this-comment.php
+msgid "On Twitter"
+msgstr "Sur Twitter"
+
+#. Text in function
+#: jm-twit-this-comment.php
+msgid "Twitter account (optional and without @)"
+msgstr "Compte Twitter (facultatif et sans le @)"
+
+#. Text in function
+#: jm-twit-this-comment.php
+msgid "by "
+msgstr "de "
+
+#. Text in function
+#: jm-twit-this-comment.php
+msgid "Tweet this comment"
+msgstr "Tweeter ce commentaire"
+
+#. Text in echo
+#: jm-twitter-cards.php
+msgid "Please enter your Twitter Account (without @)"
+msgstr "SVP entrez votre pseudo Twitter (sans @)"
+
+#. Text in echo
+#: jm-twitter-cards.php
+msgid "Twitter Account"
+msgstr "Compte Twitter"
+
+#. Text in echo
+#: jm-twitter-cards.php
+msgid "Wait ! Do not leave spaces in your Twitter account please."
+msgstr "Attention ! Ne laissez aucun espace dans le champ compte Twitter SVP"
+
